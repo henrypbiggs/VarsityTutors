@@ -5,7 +5,6 @@ while (count<9):
     if (count %3 == 0):
         print
 print "hallelujah!"
-print "We're done! Goodbye! (:"
 
 
 while count < 5:
