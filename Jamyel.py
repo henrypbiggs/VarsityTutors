@@ -3,6 +3,8 @@ count = 0
 while (count<9):
     print "The Count is: %d " % count + "."
     count = count +1
+    if (count %3 == )
+        print
 
 
 
