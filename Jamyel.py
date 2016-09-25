@@ -5,6 +5,7 @@ while (count<9):
     if (count %3 == 0):
         print
 print "hallelujah!"
+print 
 
 
 while count < 5:
