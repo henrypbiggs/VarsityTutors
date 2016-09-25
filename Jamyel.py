@@ -1,12 +1,10 @@
 #testing
 count = 0
 while (count<9):
-    print "The Count is: %d " % count + "."
+    print "The Count is: %d " % count + ".",
     count = count +1
     if (count %3 == 0)
         print
-
-
 
 print "We're done! Goodbye! (:"
 
